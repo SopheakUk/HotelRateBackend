@@ -25,6 +25,11 @@
 
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
 
+## Restore Postgres database
+```bash
+Please restore data in database folder
+```
+
 ## Project setup
 
 ```bash
