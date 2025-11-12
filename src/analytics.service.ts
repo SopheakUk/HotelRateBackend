@@ -30,7 +30,7 @@ export class AnalyticsService implements OnModuleInit, OnModuleDestroy {
   }
 
   private runPeriodicTask() {
-    console.log('Running task at', new Date().toISOString());
+    //console.log('Running task at', new Date().toISOString());
     this.ws();
     // Add your logic here
   }
