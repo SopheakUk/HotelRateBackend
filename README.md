@@ -25,6 +25,16 @@
 
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
 
+## Restore Postgres database
+```bash
+Please restore data in database folder
+Make postgres host is
+host: localhost
+port: 5432
+username: postgres
+password: 123
+```
+
 ## Project setup
 
 ```bash
