@@ -28,6 +28,11 @@
 ## Restore Postgres database
 ```bash
 Please restore data in database folder
+Make postgres host is
+host: localhost
+port: 5432
+username: username
+password: 123
 ```
 
 ## Project setup
